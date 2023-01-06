@@ -1,4 +1,4 @@
--- Followed along the youtube video by Alex the Analyst
+-- For this project, I Followed along the youtube video by Alex the Analyst
 
 Select *
 FROM Portfolio1..CovidDeaths$
