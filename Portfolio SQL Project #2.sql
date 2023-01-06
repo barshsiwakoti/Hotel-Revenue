@@ -1,3 +1,4 @@
+--Followed along youtube video by Absent Data
 -- Create a Temporary Table to store the data for the three years
 With hotels as (
 SELECT * FROM dbo.['2018$']
